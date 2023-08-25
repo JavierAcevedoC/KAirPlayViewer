@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=KAirplay Viewer
+Comment=Shows airplay play metadata from shairport-sync
+Encoding=UTF-8
+Icon=applications-rss
+ServiceTypes=Plasma/Applet
+Type=Service
+X-KDE-PluginInfo-Author=Javier Acevedo
+X-KDE-PluginInfo-Email=javier.iacevedoc@gmail.Comment
+X-KDE-PluginInfo-Name=org.lovecraft.kairplayviewer
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://techbase.kde.org
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+
